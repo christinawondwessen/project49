@@ -1,0 +1,9 @@
+h1 {
+    color:black;
+}
+
+.grid{
+    display:flex;
+    flex-wrap:wrap; 
+    justify-content: space-evenly;
+   }
